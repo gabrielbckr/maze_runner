@@ -9,14 +9,14 @@ The task doesn't offer any threading issue like race condition, so it's easy to 
 
 .
 ├── mazeRunner
-│   ├── App.config
-│   ├── Explorer
-│   │   └── Walker.cs
-│   ├── Field
-│   │   └── Field.cs
-│   ├── maze2.txt
-│   ├── mazeRunner.csproj
-│   └── Program.cs
-├── mazeRunner.sln
-└── README.md
+\│   ├── App.config
+\│   ├── Explorer
+\│   │   └── Walker.cs
+\│   ├── Field
+\│   │   └── Field.cs
+\│   ├── maze2.txt
+\│   ├── mazeRunner.csproj
+\│   └── Program.cs
+\├── mazeRunner.sln
+\└── README.md
 
