@@ -7,10 +7,10 @@ The task doesn't offer any threading issue like race condition, so it's easy to 
 
 ## File Structure
 
-.
+.\
 ├── mazeRunner\
-│   ├── App.config
-│   ├── Explorer
+│   ├── App.config\
+│   ├── Explorer\
 │   │   └── Walker.cs\
 │   ├── Field\
 │   │   └── Field.cs\
